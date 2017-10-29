@@ -25,7 +25,7 @@ description: Cities and Data Enthusiast.
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - NYC Transportation Trend Shiny App: "https://torch77.shinyapps.io/transpo_app_v2/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
 
