@@ -25,9 +25,7 @@ description: Cities and Data Enthusiast.
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-    - NYC Transportation Trend Shiny App: "https://torch77.shinyapps.io/transpo_app_v2/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
+#    - NYC Transportation Trend Shiny App: "https://torch77.shinyapps.io/transpo_app_v2/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
